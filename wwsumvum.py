@@ -1,0 +1,12 @@
+a = int(input("enter no"))
+b= int(input("enter no"))
+c= a+b
+d =a-b
+e = a*b
+f = a/b
+g = a%b
+print("sum = ",c)
+print("diff =", d)
+print("mulplication =", e)
+print("division=",f)
+print("modolus=",g)
